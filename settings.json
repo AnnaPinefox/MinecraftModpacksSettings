@@ -2,7 +2,7 @@
   "builds": [
     {
       "name": "Create RPG (TonnOfStuff)",
-      "path": "https://drive.google.com/file/d/1wFZbjEoHWY7BZIQclW1M0kvU6_uM5kom",
+      "path": "https://drive.usercontent.google.com/download?id=1wFZbjEoHWY7BZIQclW1M0kvU6_uM5kom",
       "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/menu.png"
     },
     {
@@ -12,6 +12,7 @@
     }
   ]
 }
+
 
 
 
