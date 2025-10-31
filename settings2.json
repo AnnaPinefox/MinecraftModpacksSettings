@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "name": "Create RPG (TonnOfStuff)",
+      "path": "https://drive.usercontent.google.com/uc?id=1aBz7H5Ix8LQxCYgGm_-jSax8gm_v5zP6&export=download",
+      "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/menu.png"
+    },
+    {
+      "name": "Не существует ещё",
+      "path": "https://drive.google.com/file/d/1wFZbjEoHWY7BZIQclW1M0kvU6_uM5kom&export=download",
+      "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/menu.png"
+    }
+  ]
+}
