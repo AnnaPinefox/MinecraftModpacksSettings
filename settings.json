@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "name": "Create RPG (TonnOfStuff)",
+      "path": "https://example.com/build1",
+      "image": "https://github.com/b9cf716a-bd1f-40cf-a942-6c85dc983ab9"
+    },
+    {
+      "name": "Не существует ещё",
+      "path": "https://example.com/build2",
+      "image": "https://example.com/images/build2.png"
+    }
+  ]
+}
