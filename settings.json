@@ -9,6 +9,11 @@
       "name": "Engineer's Life",
       "path": "https://drive.usercontent.google.com/download?id=1aE5dl227JpsXNJTlyHutPY5SCK3N6ZYB",
       "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/EL-menu.png"
+    }, 
+    {
+      "name": "Culinary Run",
+      "path": "https://drive.usercontent.google.com/download?id=1Idv7gsBwjWO7E0sLhgFbvcD5i2misMmv",
+      "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/Culinary_Run.jpg"
     },
     {
       "name": "Не существует ещё",
@@ -17,6 +22,7 @@
     }
   ]
 }
+
 
 
 
