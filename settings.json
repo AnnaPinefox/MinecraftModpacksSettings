@@ -1,9 +1,9 @@
 {
   "builds": [
     {
-      "name": "Create RPG (TonnOfStuff)",
-      "path": "https://drive.usercontent.google.com/download?id=1wFZbjEoHWY7BZIQclW1M0kvU6_uM5kom",
-      "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/menu.png"
+      "name": "Culinary Run",
+      "path": "https://drive.usercontent.google.com/download?id=1Idv7gsBwjWO7E0sLhgFbvcD5i2misMmv&confirm=t&uuid=0d3f6561-935c-4c34-99f9-eed1f12386e5&at=APcXIO1hXljpOJXhRCx7970Tb0ZP%3A1769343717285",
+      "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/Culinary_Run.jpg"
     },
     {
       "name": "Engineer's Life",
@@ -11,17 +11,13 @@
       "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/EL-menu.png"
     }, 
     {
-      "name": "Culinary Run",
-      "path": "https://drive.usercontent.google.com/download?id=1Idv7gsBwjWO7E0sLhgFbvcD5i2misMmv&confirm=t&uuid=0d3f6561-935c-4c34-99f9-eed1f12386e5&at=APcXIO1hXljpOJXhRCx7970Tb0ZP%3A1769343717285",
-      "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/Culinary_Run.jpg"
-    },
-    {
       "name": "Не существует ещё",
       "path": "https://drive.usercontent.google.com/uc?id=1aBz7H5Ix8LQxCYgGm_-jSax8gm_v5zP6",
       "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/menu.png"
     }
   ]
 }
+
 
 
 
