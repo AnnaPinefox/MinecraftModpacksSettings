@@ -2,7 +2,7 @@
   "builds": [
     {
       "name": "Culinary Run",
-      "path": "https://drive.usercontent.google.com/download?id=17GxtN4H-_Cq1A-QBnvMB9C3ZNOaL0je_&confirm=t",
+      "path": "https://drive.usercontent.google.com/download?id=1mnJrl2uAFdav_RSB4Wo_WfU7rQ3Zq-iE&confirm=t",
       "image": "https://raw.githubusercontent.com/AnnaPinefox/MinecraftModpacksSettings/refs/heads/main/Culinary_Run.jpg"
     },
     {
@@ -17,6 +17,7 @@
     }
   ]
 }
+
 
 
 
